@@ -1,6 +1,6 @@
 # 🌐 My Github Pages Site
 
-Welcome to the source code repository for my website hosted on **GitHub Pages**!
+Welcome to the source code repository for my site hosted by **GitHub Pages**!
 
 ---
 
