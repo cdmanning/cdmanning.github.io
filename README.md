@@ -8,9 +8,7 @@ Welcome to the source code repository for my website hosted on **GitHub Pages**!
 
 The full content of the website is served directly from this repository.
 
-**Click here to visit the live page:**
-
-[**https://cdmanning.github.io**](https://cdmanning.github.io)
+**Click here to visit the live page:** [**https://cdmanning.github.io**](https://cdmanning.github.io)
 
 ---
 
