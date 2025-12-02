@@ -2,15 +2,11 @@
 
 Welcome to the source code repository for my site hosted by **GitHub Pages**!
 
----
-
 ## 🚀 View the Live Site
 
 The full content of the website is served directly from this repository.
 
 **Click here to visit the live page:** [**https://cdmanning.github.io**](https://cdmanning.github.io)
-
----
 
 ## 📚 Key Directories
 
